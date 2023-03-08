@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<plante>
+    <planta>
+        <nume>t1</nume>
+        <tip>t</tip>
+        <specie>t</specie>
+        <zona>r</zona>
+    </planta>
+    <planta>
+        <nume>a</nume>
+        <tip>t</tip>
+        <specie>t</specie>
+        <zona>r</zona>
+    </planta>
+    <planta>
+        <nume>a1</nume>
+        <tip>a</tip>
+        <specie>a</specie>
+        <zona>a</zona>
+    </planta>
+    <planta>
+        <nume>a2</nume>
+        <tip>a</tip>
+        <specie>a</specie>
+        <zona>a</zona>
+    </planta>
+    <planta>
+        <nume>a3</nume>
+        <tip>a</tip>
+        <specie>a</specie>
+        <zona>a</zona>
+    </planta>
+</plante>

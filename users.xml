@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user>
+        <username>oana</username>
+        <password>aaa</password>
+        <role>administrator</role>
+    </user>
+    <user>
+        <username>cristina</username>
+        <password>c</password>
+        <role>angajat</role>
+    </user>
+    <user>
+        <username>ana</username>
+        <password>ana</password>
+        <role>angajat</role>
+    </user>
+    <user>
+        <username>c</username>
+        <password>c</password>
+        <role>angajat</role>
+    </user>
+    <user>
+        <username>o</username>
+        <password>o</password>
+        <role>administrator</role>
+    </user>
+    <user>
+        <username>r</username>
+        <password>r</password>
+        <role>angajat</role>
+    </user>
+</users>
